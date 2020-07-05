@@ -1,0 +1,74 @@
+
+@font-face { font-family: Kremlin Starets; src: url('Kremlin Starets.ttf'); } 
+body{
+
+    margin: 0; 
+    font-size: 20px;
+    line-height: 30px;
+}
+
+header{
+
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50 px;
+    padding-right: 50px;
+    padding-left: 50;
+    font-family: Kremlin Starets, sans-serif;
+}
+
+
+h1{
+    font-size: 50px;
+    color: white;
+    font-family:'Kremlin Starets', cursive;
+}
+
+header img{
+    border-radius: 500px;
+    border: 10px solid red;
+
+       
+}
+main{ 
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+
+main img{
+    max-width: 100%;
+    size: 40px;
+}
+
+h2{
+    font-size: 35px;
+    color: black;
+    font-family: Kremlin Starets, sans-serif;
+}
+a{
+    color: red;
+}
+a:hover{
+    color: purple;
+}
+footer{
+    background-color:red;
+    text-align: center;
+    padding: 50px
+}
+footer a{
+    color: white;
+}
+footer p{
+    margin: 0;
+}
+ul{
+    font-family: Kremlin Starets, sans-serif;
+}
+p.caption{
+    color: grey;
+    font-style: italic;
+    margin-top: 0;
+}
